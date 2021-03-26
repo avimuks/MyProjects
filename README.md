@@ -20,5 +20,5 @@ This is a primary content repo of my additional project works. I am a self taugh
 <a href="https://github.com/avimuks/DigitalAnalytics_AdobeAnalytics"> Digital Analytics with Adobe Analytics </a>
 </li>
 <li>
-<a href="https://github.com/avimuks/HTML"> Front-end Development </a>
+<a href="https://github.com/avimuks/Front-End-Development"> Front-end Development </a>
 </li>
