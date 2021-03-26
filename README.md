@@ -1,5 +1,6 @@
 # My Additional Projects
-This is a primary content repo.
+This is a primary content repo of my additional project works. I am a self taught every day learner.
+<br>
 
 ## Contents:
 <li> 
