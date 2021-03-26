@@ -22,5 +22,3 @@ This is a primary content repo of my additional project works. I am a self taugh
 <li>
 <a href="https://github.com/avimuks/HTML"> Front-end Development </a>
 </li>
-![image](https://user-images.githubusercontent.com/16107496/112608858-12098c00-8dd8-11eb-9e34-4ca4ff848c87.png)
-
