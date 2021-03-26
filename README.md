@@ -1,4 +1,4 @@
-# MyProjects
+# My Additional Projects
 This is a primary content repo.
 
 ## Contents:
