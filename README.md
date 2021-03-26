@@ -2,5 +2,7 @@
 This is a primary content repo.
 
 ## Contents:
-<li>
-  https://github.com/avimuks/FinalCapstoneProject_TheBattleOfNeighborhoods
+<li> 
+<a href="https://github.com/avimuks/FinalCapstoneProject_TheBattleOfNeighborhoods"> IBM Data Science Capstone Project </a>
+</li>
+ 
