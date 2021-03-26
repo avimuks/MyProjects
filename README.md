@@ -5,12 +5,13 @@ This is a primary content repo of my additional project works. I am a self taugh
 
 ## Contents:
 <li> 
- <ul>
-  <a href="https://github.com/avimuks/FinalCapstoneProject_TheBattleOfNeighborhoods"> IBM Data Science Capstone Project </a>
-  <a href="https://github.com/avimuks/Capstone-Project_SegmentingAndClustering-NeighbourhoodsToronto"> IBM Data Science-Segmenting & Clustering </a>
-  <a href="https://github.com/avimuks/Creating-a-Watson-Studio-Project-with-Jupyter-Notebooks"> Creating a IBM Watson Studio Poject in Jupyter Notebook </a>
- </ul>
-
+<a href="https://github.com/avimuks/FinalCapstoneProject_TheBattleOfNeighborhoods"> IBM Data Science Capstone Project </a>
+</li>
+<li>
+<a href="https://github.com/avimuks/Capstone-Project_SegmentingAndClustering-NeighbourhoodsToronto"> IBM Data Science-Segmenting & Clustering </a>
+</li>
+<li>
+<a href="https://github.com/avimuks/Creating-a-Watson-Studio-Project-with-Jupyter-Notebooks"> Creating a IBM Watson Studio Poject in Jupyter Notebook </a>
 </li>
 <li>
 <a href="https://github.com/avimuks/MySQL_Workbench"> MySQL WorkBench </a>
@@ -21,4 +22,5 @@ This is a primary content repo of my additional project works. I am a self taugh
 <li>
 <a href="https://github.com/avimuks/HTML"> Front-end Development </a>
 </li>
- 
+![image](https://user-images.githubusercontent.com/16107496/112608858-12098c00-8dd8-11eb-9e34-4ca4ff848c87.png)
+
