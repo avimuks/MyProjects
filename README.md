@@ -11,8 +11,13 @@ This is a primary content repo.
 <li>
 <a href="https://github.com/avimuks/Creating-a-Watson-Studio-Project-with-Jupyter-Notebooks"> Creating a IBM Watson Studio Poject in Jupyter Notebook </a>
 </li>
-<a href="https://github.com/avimuks/FinalCapstoneProject_TheBattleOfNeighborhoods"> IBM Data Science Capstone Project </a>
-<a href="https://github.com/avimuks/FinalCapstoneProject_TheBattleOfNeighborhoods"> IBM Data Science Capstone Project </a>
-<a href="https://github.com/avimuks/FinalCapstoneProject_TheBattleOfNeighborhoods"> IBM Data Science Capstone Project </a>
+<li>
+<a href="https://github.com/avimuks/MySQL_Workbench"> MySQL WorkBench </a>
+</li>
+<li>
+<a href="https://github.com/avimuks/DigitalAnalytics_AdobeAnalytics"> Digital Analytics with Adobe Analytics </a>
+</li>
+<li>
+<a href="https://github.com/avimuks/HTML"> Front-end Development </a>
 </li>
  
